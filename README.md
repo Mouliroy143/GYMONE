@@ -1,7 +1,7 @@
 
 ---
 
-# GYM One - Open Source Gym Management Software
+# GYM One - Gym Management Software
 <p align="center"><img src="https://gymoneglobal.com/assets/img/text-color-logo.png" alt="project-image"></p>
 
 
