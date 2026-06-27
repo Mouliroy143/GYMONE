@@ -96,8 +96,6 @@ GYM One is open source software and is licensed under the CUSTOM license. You ar
 
 For any inquiries, suggestions, or feedback, feel free to contact us:
 
-- **Email:** center@gymoneglobal.com
-- **GitHub:** [Mayer Bálint](https://github.com/mayerbalintdev)
 
 Thank you for choosing GYM One! We hope this software helps you manage your gym more efficiently.
 
